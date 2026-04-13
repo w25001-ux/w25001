@@ -11,7 +11,7 @@
 <h2>🛠️スキルセット</h2>
 
 ### 💻言語
-    Java Bronze . 
+    Java Bronze / HTML / CSS / SQL
 
 
 <h2>🛠️ツール</h2>
