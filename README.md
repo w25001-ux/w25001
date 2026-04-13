@@ -14,6 +14,5 @@
     Java Bronze / HTML / CSS / SQL
 
 
-<h2>🛠️ツール</h2>
-
-### GITHUB / VS CODE
+### 🛠️ツール
+    GITHUB / VS CODE
