@@ -11,7 +11,7 @@
 <h2>🛠️スキルセット</h2>
 
 ### 💻言語
-    [js]Java Bronze / HTML / CSS / SQL / NEXT.JS
+    Java Bronze / HTML / CSS / SQL / NEXT.JS
 
 
 ### 🛠️ツール
